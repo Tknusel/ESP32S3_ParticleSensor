@@ -49,9 +49,9 @@ SparkFunBMV080 bmv080; // Create an instance of the BMV080 class
 #define BMV080_ADDR 0x57  // SparkFun BMV080 Breakout defaults to 0x57
 
 // WiFi and MQTT configuration
-const char ssid[] = "MediaDock";
-const char pass[] = "MeDo_6020_";
-const char broker[] = "192.168.178.68";
+const char ssid[] = "your SSID";
+const char pass[] = "your password";
+const char broker[] = "your IP";
 int port = 1883;
 const char mqtt_username[] = "public";
 const char mqtt_password[] = "public";
