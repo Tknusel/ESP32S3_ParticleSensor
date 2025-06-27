@@ -37,7 +37,7 @@ A comprehensive air quality monitoring system using the SparkFun ESP32-S3 Thing 
 - **OLED Display** (SSD1327, 128x128, I2C)
 - **MicroSD card** (FAT32 formatted)
 - **LiPo Battery 2000mAh (need to be unplugged, to upload the code to the ESP32-S3 Thing Plus**
-- **SD Card 16/32GB ---> if oyur SD Card Fails: Make sure the SD Card is fast enough and formatted correctly!
+- **SD Card 16/32GB ---> if oyur SD Card fails: Make sure the SD Card is fast enough and formatted correctly!
 
 ### Connections
 ```
